@@ -1,4 +1,7 @@
 # ifeelio-ios
+
+[![Join the chat at https://gitter.im/nuthatchlabs/ifeelio-ios](https://badges.gitter.im/nuthatchlabs/ifeelio-ios.svg)](https://gitter.im/nuthatchlabs/ifeelio-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 iFeelio app for iOS
 
 **this app is not currently functional**
